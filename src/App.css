@@ -6,3 +6,16 @@
   max-width: 960px;
   margin: 0 auto;
 }
+body {
+  background-image: url("/public/milkyway.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.App-footer {
+  background-color: rgba(255, 255, 255, 0.6);
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
