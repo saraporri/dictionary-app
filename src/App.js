@@ -11,11 +11,13 @@ export default function App() {
         </main>
       </div>{" "}
       <footer className="App-footer">
-        <a href="https://github.com/saraporri/dictionary-app">
+        <a href="https://github.com/saraporri/dictionary-app" target="_blank">
           Open-source code
         </a>
         <span> by </span>
-        <a href="https://www.linkedin.com/in/saraporricino/">Sara Porricino</a>
+        <a href="https://www.linkedin.com/in/saraporricino/" target="_blank">
+          Sara Porricino
+        </a>
       </footer>
     </div>
   );
