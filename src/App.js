@@ -15,9 +15,7 @@ export default function App() {
           Open-source code
         </a>
         <span> by </span>
-        <a href="https://www.linkedin.com/in/sara-p-665919103/">
-          Sara Porricino
-        </a>
+        <a href="https://www.linkedin.com/in/saraporricino/">Sara Porricino</a>
       </footer>
     </div>
   );
